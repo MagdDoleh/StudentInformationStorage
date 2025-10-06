@@ -7,7 +7,7 @@ import java.util.ArrayList;
 import java.util.Scanner;
 /**
  *
- * @author lebrondoleh
+ * 
  */
 public class DolehAssignment4 {
      static int id;
